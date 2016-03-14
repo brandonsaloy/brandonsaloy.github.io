@@ -1,0 +1,24 @@
+/* CSS Document */
+
+body {
+
+	background-color: rgb(214, 255, 162);
+	font-color: white;
+	
+}
+
+#hypervisiblity {
+	
+	font-family: "Helvetica", serif; 
+	font-weight: bold;
+	font-size: 120px; 
+	text-align: center;
+	
+	
+} 
+
+#hari {
+	
+	font-size: 36px;
+	
+}
