@@ -1,5 +1,6 @@
 body {
 	background-image: url(../images/waiting.jpg);
+	background-repeat: no-repeat;
 	font-family: helvetica;
 	float: left;
 	padding-right: 1%;

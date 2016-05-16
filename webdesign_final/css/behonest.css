@@ -1,7 +1,8 @@
 /* CSS Document */
 
 body {
-	background-image: url(../images/mirror.jpg);
+	background-image: url(../images/mirror.jpg); 
+	background-repeat: no-repeat;
 	font-family: helvetica;
 	color: white;
 float: left;
