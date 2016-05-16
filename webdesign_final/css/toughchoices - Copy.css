@@ -1,0 +1,31 @@
+/* CSS Document */
+
+body {
+	background-image: url(../images/girlthinking.jpeg);
+	font-family: helvetica;
+	margin-left: 25px;
+	padding-right: 700px; 
+	
+}
+
+li {
+    display: inline;
+}
+
+a:link, a:visited {
+    background-color: #2222FF;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: white;
+	color: #2222FF;
+}
+
+h1 {
+	font-size: xx-large;
+}

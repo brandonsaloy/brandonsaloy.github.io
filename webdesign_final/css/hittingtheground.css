@@ -1,0 +1,32 @@
+/* CSS Document */
+
+body {
+	background-image: url(../images/greenshirtkid.jpg);
+	font-family: helvetica;
+	float: left;
+	padding-right: 1%;
+	width: 49%;
+	box-sizing: border-box;	
+}
+
+li {
+    display: inline;
+}
+
+a:link, a:visited {
+    background-color: #2222FF;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: white;
+	color: #2222FF;
+}
+
+h1 {
+	font-size: xx-large;
+}

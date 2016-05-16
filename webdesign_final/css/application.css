@@ -1,0 +1,36 @@
+/* CSS Document */
+
+body {
+	font-family: helvetica;
+	color: white;
+	background: #FF484B;
+
+	
+}
+
+li {
+    display: inline;
+}
+
+.container{
+	text-align: center; 
+}
+
+a:link, a:visited {
+    background-color: #2222FF;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: white;
+	color: #2222FF;
+}
+
+h1 {
+	font-size: xx-large;
+	
+}
